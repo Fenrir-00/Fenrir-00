@@ -133,7 +133,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Idiomas principales" /></p>
 
-<h4 align="center">Estadísticas de perfil :musical_keyboard:</h4>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Estadísticas de perfil" /></ p>
 
