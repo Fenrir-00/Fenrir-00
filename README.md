@@ -129,7 +129,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Conteo de visitantes" /></p>
 
-<h4 align="center">Idiomas principales :lengua:</h4>
+
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Idiomas principales" /></p>
 
