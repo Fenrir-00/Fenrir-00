@@ -123,7 +123,7 @@
 
 
 
-<h2 align="center">Estadísticas de Github :bar_chart:</h2>
+
 
 <h4 align="center">Recuento de visitantes :ojos:</h4>
 
