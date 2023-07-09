@@ -1,16 +1,13 @@
-#      --------------CONTÁCTAME--------------
+<p align="center">   --------------CONTÁCTAME--------------</p>
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue)](https://t.me/ritorito1990)
-
-
-<p align="center"> [![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)</p>
+[![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue)](https://t.me/ritorito199 [![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)
 
 
 
 
                          
-<p align="center"><img src="http://www.hackthebox.eu/badge/image/878653" alt="Hack The Box"></ p>
+<img src="http://www.hackthebox.eu/badge/image/878653" alt="Hack The Box"></ p>
 
 
 
