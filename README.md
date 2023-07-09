@@ -7,7 +7,7 @@
 
 
                          
-<img src="http://www.hackthebox.eu/badge/image/878653" alt="Hack The Box"></ p>
+<p align="center"><img src="http://www.hackthebox.eu/badge/image/878653" alt="Hack The Box"></ p>
 
 
 
