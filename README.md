@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)
 
 
-[![Botón verde](https://img.shields.io/badge/Bot%C3%B3n%20verde-Texto%20del%20bot%C3%B3n-green)](URL_DEL_PRIMER_BOTON) [![Botón después](https://img.shields.io/badge/Bot%C3%B3n%20despu%C3%A9s-Texto%20del%20bot%C3%B3n-blue)](URL_DEL_SEGUNDO_BOTON)
+[![Botón verde](https://img.shields.io/badge/Bot%C3%B3n%20verde-Texto%20del%20bot%C3%B3n-green)](https://t.me/ritorito1990) [![Botón después](https://img.shields.io/badge/Bot%C3%B3n%20despu%C3%A9s-Texto%20del%20bot%C3%B3n-blue)](URL_DEL_SEGUNDO_BOTON)
 
 [![Botón verde 1](https://img.shields.io/badge/Bot%C3%B3n%20verde%201-Texto%20del%20bot%C3%B3n-brightgreen)](URL_DEL_PRIMER_BOTON) [![Botón verde 2](https://img.shields.io/badge/Bot%C3%B3n%20verde%202-Texto%20del%20bot%C3%B3n-brightgreen)](URL_DEL_SEGUNDO_BOTON)
 
