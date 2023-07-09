@@ -1,4 +1,4 @@
-[![Telegram](https://img.shields.io/badge/Telegram-%40tunombredeusuario-blue)](https://t.me/tunombredeusuario)
+[![Telegram](https://img.shields.io/badge/Telegram-%40tunombredeusuario-blue)](https://t.me/@ritorito1990)
 
 
 
