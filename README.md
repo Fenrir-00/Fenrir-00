@@ -1,6 +1,5 @@
 <p align="center">   --------------CONTÁCTAME--------------</p>
-
-&&&&&&&&[![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)
+&[![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)
 
 
 
