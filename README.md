@@ -1,6 +1,8 @@
 <p align="center">   --------------CONTÁCTAME--------------</p>
 
-
+<p align="center">
+  <img src="image_url">
+</p>
 
 [![Símbolo](https://img.shields.io/badge/----------green)](https://t.me/ritorito1990)[![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)[![Símbolo](https://img.shields.io/badge/------green)](https://t.me/ritorito1990) 
 
