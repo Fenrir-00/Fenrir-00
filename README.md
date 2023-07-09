@@ -1,6 +1,6 @@
 <p align="center">   --------------CONTÁCTAME--------------</p>
 
-<h2 align="center"> 🚀 Contactar 🚀 </h2> <p align="center"> <a href="https://t.me/Ux4hack"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<h2 align="center"> 🚀 Contactar 🚀 </h2> <p align="center"> <a href="https://t.me/Ritorito1990"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <p align="center">
   <img src="https://t.me/ritorito1990">
 </p>
