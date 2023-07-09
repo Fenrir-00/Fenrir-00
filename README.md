@@ -1,3 +1,4 @@
+[![Telegram](https://img.shields.io/badge/Telegram-%40tunombredeusuario-blue)](https://t.me/tunombredeusuario)
 
 
 
