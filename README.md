@@ -1,8 +1,9 @@
 <p align="center">   --------------CONTÁCTAME--------------</p>
 
-[![Telegram][![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)
+[![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)
 
 
+[![Botón verde](https://img.shields.io/badge/Bot%C3%B3n%20verde-Texto%20del%20bot%C3%B3n-green)](URL_DEL_PRIMER_BOTON) [![Botón después](https://img.shields.io/badge/Bot%C3%B3n%20despu%C3%A9s-Texto%20del%20bot%C3%B3n-blue)](URL_DEL_SEGUNDO_BOTON)
 
                          
 <p align="center"><img src="http://www.hackthebox.eu/badge/image/878653" alt="Hack The Box"></ p>
