@@ -1,9 +1,5 @@
 
 <h2 align="center"> 🚀 Contactar 🚀 </h2> <p align="center"> <a href="https://t.me/Ritorito1990"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<p align="center">
-  <img src="https://t.me/ritorito1990">
-</p>
-
 
 
 <p align="center"><img src="http://www.hackthebox.eu/badge/image/878653" alt="Hack The Box"></ p>
