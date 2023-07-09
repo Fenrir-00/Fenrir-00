@@ -1,11 +1,5 @@
 <p align="center">   --------------CONTÁCTAME--------------</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)
-
-
-[![Botón verde](https://img.shields.io/badge/&&&&&&&&&&&-Texto%20del%20bot%C3%B3n-green)](https://t.me/ritorito1990) [![Botón después](https://img.shields.io/badge/Bot%C3%B3n%20despu%C3%A9s-Texto%20del%20bot%C3%B3n-blue)](URL_DEL_SEGUNDO_BOTON)
-
-![Símbolo](https://img.shields.io/badge/---------green)(https://t.me/ritorito1990) [![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)
 
 
 [![Símbolo](https://img.shields.io/badge/--------------------------------------------------------------------------------------------------------------------------------------------green)](https://t.me/ritorito1990)[![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)[![Símbolo](https://img.shields.io/badge/-----------------------------------------------------------------------------------------------------------------------------------------green)](https://t.me/ritorito1990) 
