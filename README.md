@@ -7,7 +7,9 @@
 
 ![Símbolo](https://img.shields.io/badge/---------green)(https://t.me/ritorito1990) [![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)
 
-                         
+
+[![Símbolo](https://img.shields.io/badge/--------green)](https://t.me/ritorito1990) [![Telegram](https://img.shields.io/badge/Telegram-%40ritorito1990-blue?logo=telegram)](https://t.me/ritorito1990)
+
 <p align="center"><img src="http://www.hackthebox.eu/badge/image/878653" alt="Hack The Box"></ p>
 
 
